@@ -13,4 +13,4 @@
   - [Base64 Encoder/Decoder](https://github.com/drewmarsh/base64-encoder-decoder)
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
 - <b>PowerShell</b>
-  - [Digital Library Book Adding](https://github.com/drewmarsh/add-new-book)
+  - [Audiobook/Ebook Book Adder for Personal Digital Libraries](https://github.com/drewmarsh/add-new-book)
