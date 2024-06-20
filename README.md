@@ -6,7 +6,7 @@
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
 - <b>Python</b>
   - [Package Delivery Application (Pathfinding Algorithm)](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm)
-  - [Stroke Detector (Machine Learning/AI Using Jupyter Notebook)](https://github.com/drewmarsh/stroke-detector-AI)
+  - [Stroke Detector (Machine Learning/AI in Jupyter Notebook)](https://github.com/drewmarsh/stroke-detector-AI)
 - <b>C# (.NET Framework)</b>
   - [Toggle Muter (Windows Volume Control Application)](https://github.com/drewmarsh/toggle-muter)
 - <b>JavaScript</b>
