@@ -2,8 +2,8 @@
 
 <h2>⌨ Software Development Projects:</h2>
 
-- <b>Full Stack Web App (Java, Spring Boot, Angular, SQL, Maven, and Docker)</b>
-  - [Hotel Room Booking](https://github.com/drewmarsh/mock-hotel-booking)
+- <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, and Docker)</b>
+  - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
 - <b>Python</b>
   - [Package Delivery Application (Pathfinding Algorithm)](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm)
   - [Stroke Detector (Machine Learning/AI in Jupyter Notebook)](https://github.com/drewmarsh/stroke-detector-AI)
