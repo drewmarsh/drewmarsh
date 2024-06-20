@@ -6,7 +6,11 @@
   - [Hotel Room Booking](https://github.com/drewmarsh/mock-hotel-booking)
 - <b>Python</b>
   - [Package Delivery Application (Pathfinding Algorithm)](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm)
+  - [Stroke Detector (Machine Learning/AI in Jupyter Notebook)](https://github.com/drewmarsh/stroke-detector-AI)
 - <b>C# (.NET Framework)</b>
   - [Toggle Muter (Windows Volume Control Application)](https://github.com/drewmarsh/toggle-muter)
+- <b>JavaScript</b>
+  - [Base64 Encoder/Decoder](https://github.com/drewmarsh/base64-encoder-decoder)
+  - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
 - <b>PowerShell</b>
   - [Digital Libarary Book Adding](https://github.com/drewmarsh/add-new-book)
