@@ -9,7 +9,8 @@
   - [Stroke Detector (Machine Learning/AI in Jupyter Notebook)](https://github.com/drewmarsh/stroke-detector-AI)
 - <b>C# (.NET Framework)</b>
   - [Toggle Muter (Windows Volume Control Application)](https://github.com/drewmarsh/toggle-muter)
-- <b>JavaScript</b>
+- <b>JavaScript/TypeScript</b>
+  - [Recipe Scaler](https://github.com/drewmarsh/joplin-recipe-scaler)
   - [Base64 Encoder/Decoder Web Extension](https://github.com/drewmarsh/base64-encoder-decoder)
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
 - <b>PowerShell</b>
