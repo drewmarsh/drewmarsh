@@ -12,9 +12,10 @@
 - <b>JavaScript/TypeScript</b>
   - [Recipe Scaler](https://github.com/drewmarsh/joplin-recipe-scaler)
 
-    ![recipe-scaler-example](/preview/recipe-scaler-example.png)
-    
+    ![recipe-scaler-preview](/preview/recipe-scaler-preview.png)
   - [Base64 Encoder/Decoder Web Extension](https://github.com/drewmarsh/base64-encoder-decoder)
+
+    ![base64-preview](/preview/base64-preview.png)
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
 - <b>PowerShell</b>
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
