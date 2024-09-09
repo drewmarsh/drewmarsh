@@ -11,7 +11,11 @@
   - [Toggle Muter (Windows Volume Control Application)](https://github.com/drewmarsh/toggle-muter)
 - <b>JavaScript/TypeScript</b>
   - [Recipe Scaler](https://github.com/drewmarsh/joplin-recipe-scaler) <br><br> <img src="/preview/recipe-scaler-preview.png" alt="Recipe Scaler Preview">
-  - [Base64 Encoder/Decoder Web Extension](https://github.com/drewmarsh/base64-encoder-decoder) <br><br> <img src="/preview/base64-preview.png" width="371" height="256" alt="Base64 Preview">
+  - [Base64 Encoder/Decoder Web Extension](https://github.com/drewmarsh/base64-encoder-decoder)
+    <details open> <summary></summary>
+    <img src="/preview/base64-preview.png" width="371" height="256" alt="Base64 Preview">
+    </details>
+  
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
 - <b>PowerShell</b>
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
