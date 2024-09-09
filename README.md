@@ -12,7 +12,7 @@
 - <b>JavaScript/TypeScript</b>
   - [Recipe Scaler](https://github.com/drewmarsh/joplin-recipe-scaler)
 
-    ![recipe-scaler-preview](/preview/recipe-scaler-preview.png)
+    ![recipe-scaler-example](/preview/recipe-scaler-example.png)
     
   - [Base64 Encoder/Decoder Web Extension](https://github.com/drewmarsh/base64-encoder-decoder)
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
