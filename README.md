@@ -4,6 +4,7 @@
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
+
     <details open> <summary></summary>
     <img src="/preview/hotel-booking-preview.png" width="680" height="313" alt="Hotel Booking Preview">
     </details>
