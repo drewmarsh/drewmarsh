@@ -3,14 +3,22 @@
 <h2>⌨ Software Development Projects:</h2>
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
-  - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking) <br><br> <img src="/preview/hotel-booking-preview.png" width="680" height="313" alt="Hotel Booking Preview">
+  - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
+    <details open> <summary></summary>
+    <img src="/preview/hotel-booking-preview.png" width="680" height="313" alt="Hotel Booking Preview">
+    </details>
+    
 - <b>Python</b>
   - [Package Delivery Application (Pathfinding Algorithm)](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm)
   - [Stroke Detector (Machine Learning/AI in Jupyter Notebook)](https://github.com/drewmarsh/stroke-detector-AI)
 - <b>C# (.NET Framework)</b>
   - [Toggle Muter (Windows Volume Control Application)](https://github.com/drewmarsh/toggle-muter)
 - <b>JavaScript/TypeScript</b>
-  - [Recipe Scaler](https://github.com/drewmarsh/joplin-recipe-scaler) <br><br> <img src="/preview/recipe-scaler-preview.png" alt="Recipe Scaler Preview">
+  - [Recipe Scaler](https://github.com/drewmarsh/joplin-recipe-scaler)
+    <details open> <summary></summary>
+    <img src="/preview/recipe-scaler-preview.png" alt="Recipe Scaler Preview">
+    </details>
+    
   - [Base64 Encoder/Decoder Web Extension](https://github.com/drewmarsh/base64-encoder-decoder)
     <details open> <summary></summary>
     <img src="/preview/base64-preview.png" width="371" height="256" alt="Base64 Preview">
