@@ -11,6 +11,9 @@
   - [Toggle Muter (Windows Volume Control Application)](https://github.com/drewmarsh/toggle-muter)
 - <b>JavaScript/TypeScript</b>
   - [Recipe Scaler](https://github.com/drewmarsh/joplin-recipe-scaler)
+
+    ![recipe-scaler-preview](/preview/recipe-scaler-preview.png)
+    
   - [Base64 Encoder/Decoder Web Extension](https://github.com/drewmarsh/base64-encoder-decoder)
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
 - <b>PowerShell</b>
