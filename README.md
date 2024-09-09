@@ -5,7 +5,7 @@
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
 
-  <img src="/preview/hotel-booking-preview.png" width="680" height="579" alt="Hotel Booking Preview">
+  <img src="/preview/hotel-booking-preview.png" width="1134" height="522" alt="Hotel Booking Preview">
 - <b>Python</b>
   - [Package Delivery Application (Pathfinding Algorithm)](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm)
   - [Stroke Detector (Machine Learning/AI in Jupyter Notebook)](https://github.com/drewmarsh/stroke-detector-AI)
