@@ -20,5 +20,6 @@
     > <details> <summary><i>Preview 'Base64 Encoder/Decoder'</i></summary> <img src="/preview/base64-preview.png" width="371" height="256" alt="Base64 Preview"> </details>
   
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
-- <b>PowerShell</b>
+- <b>PowerShell/Shell</b>
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
+  - [Amazon Book Cover Grabber](https://github.com/drewmarsh/amazon_book_cover_grabber)
