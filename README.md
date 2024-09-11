@@ -22,4 +22,4 @@
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
 - <b>PowerShell/Shell</b>
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
-  - [Amazon Book Cover Grabber](https://github.com/drewmarsh/amazon_book_cover_grabber)
+  - [Amazon Book Cover Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
