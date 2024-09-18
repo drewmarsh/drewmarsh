@@ -5,7 +5,7 @@
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
 
-    > <details> <summary><i>Preview 'Hotel Room Booking Application'</i></summary> <br> <img src="/preview/hotel-booking-preview.png" width="680" height="313" alt="Hotel Booking Preview"> </details>
+    > <details> <summary><i>Preview 'Hotel Room Booking Application'</i></summary> <br> <img src="/preview/hotel-booking-preview.png" width="680" alt="Hotel Booking Preview"> </details>
     
 - <b>Python</b>
   - [Package Delivery Application (Pathfinding Algorithm)](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm)
@@ -17,7 +17,7 @@
     > <details> <summary><i>Preview 'Recipe Scaler'</i></summary> <br> <img src="/preview/recipe-scaler-preview.png" alt="Recipe Scaler Preview"> </details>
     
   - [Base64 Encoder/Decoder Web Extension](https://github.com/drewmarsh/base64-encoder-decoder)
-    > <details> <summary><i>Preview 'Base64 Encoder/Decoder'</i></summary> <br> <img src="/preview/base64-preview.png" width="371" height="256" alt="Base64 Preview"> </details>
+    > <details> <summary><i>Preview 'Base64 Encoder/Decoder'</i></summary> <br> <img src="/preview/base64-preview.png" width="371" alt="Base64 Preview"> </details>
   
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
 - <b>PowerShell/Shell</b>
