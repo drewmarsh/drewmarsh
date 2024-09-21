@@ -59,13 +59,10 @@
 
 ## 📜 Certifications
 
-- CompTIA A+
-- CompTIA Security+
-- ITIL v4 Foundation Certificate in IT Service Management
-- LPI Linux Essentials
-- Professional Scrum Product Owner I (PSPO I)
-- Professional Scrum Master I (PSM I)
-- National Incident Management System (NIMS):
-  - IS-703
-  - IS-200
-  - IS-100
+- ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-e32527?style=for-the-badge&logo=comptia&logoColor=white)
+- ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-e32527?style=for-the-badge&logo=comptia&logoColor=white)
+- ![ITIL v4](https://img.shields.io/badge/ITIL-v4%20Foundation-6c213e?style=for-the-badge&logo=axelos&logoColor=white)
+- ![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-yellow?style=for-the-badge&logo=linux&logoColor=black)
+- ![PSPO I](https://img.shields.io/badge/Scrum.org-PSPO%20I-10697c?style=for-the-badge&logo=scrumorg&logoColor=white)
+- ![PSM I](https://img.shields.io/badge/Scrum.org-PSM%20I-10697c?style=for-the-badge&logo=scrumorg&logoColor=white)
+- ![NIMS](https://img.shields.io/badge/NIMS-IS--703%20•%20IS--200%20•%20IS--100-green?style=for-the-badge&logo=fema&logoColor=white)
