@@ -1,6 +1,6 @@
-<h1>Hi, I'm Drew! <br/><a href="https://github.com/drewmarsh?tab=repositories">Programmer</a> & IT Professional</a></h1>
+# Hi, I'm Drew! <br/><a href="https://github.com/drewmarsh?tab=repositories">Programmer</a> & IT Professional</a>
 
-<h2>🖥️ Information Technology Projects:</h2>
+## 🖥️ Information Technology Projects:
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Setup & Installation](https://github.com/drewmarsh/osTicket-installation)
@@ -12,7 +12,7 @@
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
   - [Amazon Book Cover Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
 
-<h2>⌨ Software Development Projects:</h2>
+## ⌨ Software Development Projects
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
@@ -32,3 +32,16 @@
     > <details> <summary><i>Preview 'Base64 Encoder/Decoder'</i></summary> <br> <img src="/preview/base64-preview.png" width="371" alt="Base64 Preview"> </details>
   
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
+
+## 📜 Certifications
+
+- CompTIA A+
+- CompTIA Security+
+- ITIL v4 Foundation Certificate in IT Service Management
+- LPI Linux Essentials
+- Professional Scrum Product Owner I (PSPO I)
+- Professional Scrum Master I (PSM I)
+- National Incident Management System (NIMS):
+  - IS-703
+  - IS-200
+  - IS-100
