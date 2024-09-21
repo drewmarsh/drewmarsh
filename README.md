@@ -1,6 +1,6 @@
 # Hi, I'm Drew! <br/><a href="https://github.com/drewmarsh?tab=repositories">Programmer</a> & IT Professional</a>
 
-## 🖥️ Information Technology Projects:
+## 🖥️ Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Setup & Installation](https://github.com/drewmarsh/osTicket-installation)
