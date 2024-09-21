@@ -59,10 +59,10 @@
 
 ## 📜 Certifications
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-e32527?style=for-the-badge&logo=comptia&logoColor=white) <br>
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-e32527?style=for-the-badge&logo=comptia&logoColor=white) <br>
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-e32527?style=for-the-badge&logoColor=white) <br>
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-e32527?style=for-the-badge&logoColor=white) <br>
 ![ITIL v4](https://img.shields.io/badge/ITIL-v4%20Foundation-6c213e?style=for-the-badge&logo=axelos&logoColor=white) <br>
-![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-yellow?style=for-the-badge&logo=linux&logoColor=black) <br>
+![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-yellow?style=for-the-badge&logoColor=black) <br>
 ![PSPO I](https://img.shields.io/badge/Scrum.org-PSPO%20I-10697c?style=for-the-badge&logo=scrumorg&logoColor=white) <br>
 ![PSM I](https://img.shields.io/badge/Scrum.org-PSM%20I-10697c?style=for-the-badge&logo=scrumorg&logoColor=white) <br>
 ![NIMS](https://img.shields.io/badge/NIMS-IS--703%20•%20IS--200%20•%20IS--100-green?style=for-the-badge&logo=fema&logoColor=white) <br>
