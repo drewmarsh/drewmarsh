@@ -1,4 +1,8 @@
-# Hi, I'm Drew! <br/><a href="https://github.com/drewmarsh?tab=repositories">Programmer</a> & IT Professional</a>
+<div align="center">
+
+# Hi, I'm Drew! <br> [Programmer](https://github.com/drewmarsh?tab=repositories) & IT Professional
+
+</div>
 
 ## 🖥️ Information Technology Projects
 
