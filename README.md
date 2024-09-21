@@ -59,10 +59,10 @@
 
 ## 📜 Certifications
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-e32527?style=for-the-badge&logoColor=white) <br>
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-e32527?style=for-the-badge&logoColor=white) <br>
-![ITIL v4](https://img.shields.io/badge/ITIL-v4%20Foundation-6c213e?style=for-the-badge&logo=axelos&logoColor=white) <br>
-![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-yellow?style=for-the-badge&logoColor=black) <br>
-![PSPO I](https://img.shields.io/badge/Scrum.org-PSPO%20I-10697c?style=for-the-badge&logo=scrumorg&logoColor=white) <br>
-![PSM I](https://img.shields.io/badge/Scrum.org-PSM%20I-10697c?style=for-the-badge&logo=scrumorg&logoColor=white) <br>
-![NIMS](https://img.shields.io/badge/NIMS-IS--703%20•%20IS--200%20•%20IS--100-green?style=for-the-badge&logo=fema&logoColor=white) <br>
+![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-e32527?style=for-the-badge) <br>
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-e32527?style=for-the-badge) <br>
+![ITIL v4](https://img.shields.io/badge/ITIL%20v4%20Foundation-6c213e?style=for-the-badge) <br>
+![LPI Linux Essentials](https://img.shields.io/badge/LPI%20Linux%20Essentials-FCC624?style=for-the-badge) <br>
+![PSPO I](https://img.shields.io/badge/Professional%20Scrum%20Product%20Owner%20I%20(PSPO%20I)-10697c?style=for-the-badge) <br>
+![PSM I](https://img.shields.io/badge/Professional%20Scrum%20Master%20I%20(PSM%20I)-10697c?style=for-the-badge) <br>
+![NIMS](https://img.shields.io/badge/NIMS%20IS--703%20•%20IS--200%20•%20IS--100-006400?style=for-the-badge) <br>
