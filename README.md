@@ -13,7 +13,7 @@
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
 
-    > <details> <summary><i>Preview 'Hotel Room Booking Application'</i></summary> <br> <img src="/preview/hotel-booking-preview.png" width="680" alt="Hotel Booking Preview"> </details>
+    > <details> <summary><i>Preview 'Hotel Room Booking Application'</i></summary> <br> <img src="/preview/hotel-booking-preview.png" width="1134" alt="Hotel Booking Preview"> </details>
     
 - <b>Python</b>
   - [Package Delivery Application (Pathfinding Algorithm)](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm)
