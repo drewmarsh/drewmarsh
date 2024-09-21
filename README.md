@@ -1,5 +1,13 @@
 <h1>Hi, I'm Drew! <br/><a href="https://github.com/drewmarsh?tab=repositories">Programmer</a> & IT Professional</a></h1>
 
+<h2>🖥️ Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Setup & Installation](https://github.com/drewmarsh/osTicket-installation)
+    
+- <b>Microsoft Azure</b>
+  - [Creating Virtual Machine for Remote Access](https://github.com/drewmarsh/azure-creating-VM)
+
 <h2>⌨ Software Development Projects:</h2>
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
