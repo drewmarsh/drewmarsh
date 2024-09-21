@@ -8,6 +8,10 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machine for Remote Access](https://github.com/drewmarsh/azure-creating-VM)
 
+- <b>PowerShell/Shell</b>
+  - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
+  - [Amazon Book Cover Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
+
 <h2>⌨ Software Development Projects:</h2>
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
@@ -28,6 +32,3 @@
     > <details> <summary><i>Preview 'Base64 Encoder/Decoder'</i></summary> <br> <img src="/preview/base64-preview.png" width="371" alt="Base64 Preview"> </details>
   
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
-- <b>PowerShell/Shell</b>
-  - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
-  - [Amazon Book Cover Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
