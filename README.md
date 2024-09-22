@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Drew! <br> [Programmer](https://github.com/drewmarsh?tab=repositories) & IT Professional
+# Hi, I'm Drew! <br> [IT Professional](https://github.com/drewmarsh#%EF%B8%8F-information-technology-projects) & [Programmer](https://github.com/drewmarsh#-software-development-projects)
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
