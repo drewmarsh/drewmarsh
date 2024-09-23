@@ -27,7 +27,7 @@
 ## 🖥️ Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Setup & Installation](https://github.com/drewmarsh/osTicket-installation)
+  - [osTicket: Prerequisites & Installation](https://github.com/drewmarsh/osTicket-installation)
   - [osTicket: Post-installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
     
 - <b>Microsoft Azure</b>
