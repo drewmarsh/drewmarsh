@@ -43,6 +43,7 @@
 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-e32527?style=for-the-badge) <br>
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-e32527?style=for-the-badge) <br>
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA%20CySA+-e32527?style=for-the-badge) <br>
 ![ITIL v4](https://img.shields.io/badge/ITIL%20v4%20Foundation-6c213e?style=for-the-badge) <br>
 ![LPI Linux Essentials](https://img.shields.io/badge/LPI%20Linux%20Essentials-FCC624?style=for-the-badge) <br>
 ![PSPO I](https://img.shields.io/badge/Professional%20Scrum%20Product%20Owner%20I%20(PSPO%20I)-10697c?style=for-the-badge) <br>
