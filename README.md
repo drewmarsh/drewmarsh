@@ -4,6 +4,11 @@
 
 </div>
 
+## 🔐 Cybersecurity Projects
+
+- <b>Vulnerability Management</b>
+  - [Nessus Vulnerability Scanning & Vulnerability Remediation](https://github.com/drewmarsh/nessus-vulnerability-management)
+
 ## 🖥️ Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System) in an Azure VM</b>
