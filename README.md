@@ -1,33 +1,28 @@
 <div align="center">
 
-# Hi, I'm Drew! <br> [IT Professional](https://github.com/drewmarsh#%EF%B8%8F-information-technology-projects) & [Programmer](https://github.com/drewmarsh#-software-development-projects)
+# Hi, I'm Drew <br> [IT Professional](https://github.com/drewmarsh#%EF%B8%8F-information-technology-projects) & [Programmer](https://github.com/drewmarsh#-software-development-projects)
 
 </div>
 
-## 🔐 Cybersecurity Projects
+## 🔐 Cybersecurity and 🖥️ IT
 
 - <b>Vulnerability Management</b>
   - [Nessus Vulnerability Scanning & Vulnerability Remediation](https://github.com/drewmarsh/nessus-vulnerability-management)
 
-## 🖥️ Information Technology Projects
-
-- <b>osTicket (Help Desk Ticketing System) in an Azure VM</b>
+- <b>osTicket (Help Desk Ticketing System) Server</b>
   - [Part 1: Prerequisites & Installation](https://github.com/drewmarsh/osTicket-installation)
   - [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
   - [Part 3: Ticket Lifecycle Demo](https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo)
 
 - <b>Active Directory</b>
   - [On-premises Active Directory Configuration](https://github.com/drewmarsh/on-premises-active-directory-configuration)
-    
-- <b>Microsoft Azure</b>
-  - [Creating Virtual Machine for Remote Access](https://github.com/drewmarsh/azure-creating-VM)
 
 - <b>PowerShell/Shell Scripting</b>
   - [Active Directory — Bulk User Creation](https://github.com/drewmarsh/active-directory-bulk-user-creation)
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
   - [Amazon Book Cover Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
 
-## ⌨ Software Development Projects
+## ⌨ Software Development
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
