@@ -9,7 +9,7 @@
 
 - <b>Vulnerability Management</b>
   - [Nessus Vulnerability Scanning & Vulnerability Remediation](https://github.com/drewmarsh/nessus-vulnerability-management)
-
+    > <br> Intentionally making an Azure Virtual Machine insecure, remediating those vulnerabilities, and then running Tenable Nessus vulnerability scans at different steps throughout the process
 - <b>osTicket (Help Desk Ticketing System) Server</b>
   - [Part 1: Prerequisites & Installation](https://github.com/drewmarsh/osTicket-installation)
   - [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
@@ -17,6 +17,7 @@
 
 - <b>Active Directory</b>
   - [On-premises Active Directory Configuration](https://github.com/drewmarsh/on-premises-active-directory-configuration)
+    > <br> Active Directory Domain-controller/Client configuration with a bulk user creation script for simulating employees
 
 - <b>PowerShell/Shell Scripting</b>
   - [Active Directory — Bulk User Creation](https://github.com/drewmarsh/active-directory-bulk-user-creation)
