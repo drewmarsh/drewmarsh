@@ -24,7 +24,7 @@
 - <b>PowerShell/Shell Scripting</b>
   - [Active Directory — Bulk User Creation](https://github.com/drewmarsh/active-directory-bulk-user-creation)
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
-  - [Amazon.com Book Cover Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
+  - [Amazon.com Book Cover Image Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
 
 <a name="programmer"></a>
 ## ⌨ Software Development
