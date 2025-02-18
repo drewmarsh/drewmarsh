@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hi, I'm Drew <br> [IT Professional](https://github.com/drewmarsh#%EF%B8%8F-information-technology-projects) & [Programmer](https://github.com/drewmarsh#-software-development-projects)
+# Hi, I'm Drew <br> [IT Professional](#it-professional) & [Programmer](#programmer)
 
 </div>
 
+<a name="it-professional"></a>
 ## 🔐 Cybersecurity and 🖥️ IT
 
 - <b>Vulnerability Management</b>
@@ -22,6 +23,7 @@
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
   - [Amazon Book Cover Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
 
+<a name="programmer"></a>
 ## ⌨ Software Development
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
