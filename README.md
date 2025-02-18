@@ -15,7 +15,7 @@
   - [Part 1: Prerequisites & Installation](https://github.com/drewmarsh/osTicket-installation)
   - [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
   - [Part 3: Ticket Lifecycle Demo](https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo)<br><br>
-    > Creating a ticketing system server in an Azure VM by setting up dependencies, installing osTicket, simulating employees, and showcasing an example ticket lifecycle
+    > Creating a ticketing system server in an Azure VM by setting up dependencies, installing osTicket, simulating an employee hierarchy, and showcasing an example ticket lifecycle
 
 - <b>Active Directory</b>
   - [On-premises Active Directory Configuration](https://github.com/drewmarsh/on-premises-active-directory-configuration)<br><br>
