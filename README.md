@@ -9,7 +9,7 @@
 
 - <b>Vulnerability Management</b>
   - [Nessus Vulnerability Scanning & Vulnerability Remediation](https://github.com/drewmarsh/nessus-vulnerability-management)<br><br>
-    > Intentionally making an Azure Virtual Machine insecure, remediating those vulnerabilities, and then running Tenable Nessus vulnerability scans at different steps throughout the process
+    > Intentionally making an Azure VM insecure, remediating those vulnerabilities, and then running Tenable Nessus vulnerability scans at different steps throughout the process
 
 - <b>osTicket (Help Desk Ticketing System) Server</b>
   - [Part 1: Prerequisites & Installation](https://github.com/drewmarsh/osTicket-installation)
