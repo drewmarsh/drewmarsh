@@ -7,6 +7,10 @@
 <a name="it-professional"></a>
 ## 🔐 Cybersecurity and 🖥️ IT
 
+- <b>SOC Automation & Threat Detection</b>
+  - [Azure Sentinel Honeypot with Attack Mapping](https://github.com/drewmarsh/soc-automation-sentinel-honeypot)<br><br>
+    > Deployed a vulnerable Azure VM as a honeypot, analyzed live attacks using Microsoft Sentinel/KQL, and visualized global threat patterns via a dynamic world heatmap
+
 - <b>Vulnerability Management</b>
   - [Nessus Vulnerability Scanning & Vulnerability Remediation](https://github.com/drewmarsh/nessus-vulnerability-management)<br><br>
     > Intentionally making an Azure VM insecure, remediating those vulnerabilities, and then running Tenable Nessus vulnerability scans at different steps throughout the process
