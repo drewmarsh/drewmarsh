@@ -5,14 +5,15 @@
       <h1>Hi, 👋🏻 I'm Drew</h1>
       <br>
       <h2>
-        <a href="#cyber-professional">Cybersecurity Professional</a>, 
-        <a href="#swe-automation">Programmer</a>, & 
-        <a href="#swe-automation">Automation Enthusiast</a>
+        <a href="#cyber-professional">Cybersecurity Professional</a> & 
+        <a href="#swe-automation">Programmer</a>
       </h2> 
     </summary>
   </ul>
 </div>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a4dc,50:7b6db0,100:aa5cc3&height=80&section=footer" width="100%">
 
 <a name="cyber-professional"></a>
 
