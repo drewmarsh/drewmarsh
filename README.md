@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Drew <br> [Cybersecurity Professional](#cyber-professional) & [SWE/Automation Enthusiast](#programmer)
+# Hi, I'm Drew <br> [Cybersecurity Professional](#cyber-professional) & [SWE/Automation Enthusiast](#swe-automation)
 
 </div>
 
@@ -25,7 +25,7 @@
   - [On-premises Active Directory Configuration](https://github.com/drewmarsh/on-premises-active-directory-configuration)<br><br>
     > Active Directory Domain-controller/Client configuration with a bulk user creation script for simulating employees
 
-<a name="programmer"></a>
+<a name="swe-automation"></a>
 ## 💻 Software Engineering and 🤖 Automation
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
@@ -47,13 +47,13 @@
   
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
     
-  - <b>PowerShell/Shell Scripting</b>
-    - [Active Directory Bulk User Creation](https://github.com/drewmarsh/active-directory-bulk-user-creation)
-    - [YouTube to .M4B Audiobook Converter](https://github.com/drewmarsh/youtube-to-m4b)
-    - [Amazon.com Book Cover Image Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
-    - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
+- <b>PowerShell/Shell Scripting</b>
+  - [Active Directory Bulk User Creation](https://github.com/drewmarsh/active-directory-bulk-user-creation)
+  - [YouTube to .M4B Audiobook Converter](https://github.com/drewmarsh/youtube-to-m4b)
+  - [Amazon.com Book Cover Image Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
+  - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
 
-## 📜 Certifications
+## 🎉 Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-e32527?style=for-the-badge) <br>
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA%20CySA+-e32527?style=for-the-badge) <br>
