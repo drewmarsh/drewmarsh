@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Drew <br> [Cybersecurity Professional](#cyber-professional) & [SWE/Automation Enthusiast](#swe-automation)
+# Hi, I'm Drew <br> [Cybersecurity Professional](#cyber-professional), [Programmer](#swe-automation), & [Automation Enthusiast](#swe-automation)
 
 </div>
 
 <a name="cyber-professional"></a>
-## 🔐 Cybersecurity and 💾 IT
+## 🔐 🖥️ Cybersecurity & IT
 
 - <b>SOC Automation & Threat Detection</b>
   - [Azure Sentinel Honeypot with Attack Mapping](https://github.com/drewmarsh/soc-automation-sentinel-honeypot)<br><br>
@@ -26,7 +26,7 @@
     > Active Directory Domain-controller/Client configuration with a bulk user creation script for simulating employees
 
 <a name="swe-automation"></a>
-## 💻 Software Engineering and 🤖 Automation
+## 💻 ⚙️ Software Engineering & Automation
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
