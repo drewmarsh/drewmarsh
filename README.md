@@ -1,15 +1,29 @@
 <div align="center">
-
-# Hi, I'm Drew <br> [Cybersecurity Professional](#cyber-professional), [Programmer](#swe-automation), & [Automation Enthusiast](#swe-automation)
-
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi, 👋🏻 I'm Drew</h1>
+      <br>
+      <h2>
+        <a href="#cyber-professional">Cybersecurity Professional</a>, 
+        <a href="#swe-automation">Programmer</a>, & 
+        <a href="#swe-automation">Automation Enthusiast</a>
+      </h2> 
+    </summary>
+  </ul>
+</div>
 </div>
 
- <a name="cyber-professional"></a>
- 
- <div align="center">
-   
-## 🔐 Cybersecurity & IT 🖥️
+<a name="cyber-professional"></a>
 
+<div align="center">
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>🔐 Cybersecurity & IT 🖥️</h2>
+    </summary>
+  </ul>
+</div>
 </div>
 
 - <b>SOC Automation & Threat Detection</b>
@@ -33,9 +47,13 @@
 <a name="swe-automation"></a>
 
 <div align="center">
-  
-## 💻 Software Engineering & Automation ⚙️
-
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>💻 Software Engineering & Automation ⚙️</h2>
+    </summary>
+  </ul>
+</div>
 </div>
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
@@ -63,4 +81,4 @@
   - [Amazon.com Book Cover Image Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
 
-<div align="center">
+
