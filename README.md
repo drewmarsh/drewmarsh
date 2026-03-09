@@ -4,16 +4,13 @@
     <summary>
       <h1>Hi, 👋🏻 I'm Drew</h1>
       <br>
-      <h2>
-        <a href="#cyber-professional">Cybersecurity Professional</a> & 
-        <a href="#swe-automation">Programmer</a>
-      </h2> 
+      <h2>Cybersecurity Professional & Programmer</h2> 
     </summary>
   </ul>
 </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa5cc3,50:7b6db0,100:00a4dc&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0079d3&height=2" width="100%">
 
 <a name="cyber-professional"></a>
 
@@ -44,6 +41,8 @@
 - <b>Active Directory</b>
   - [On-premises Active Directory Configuration](https://github.com/drewmarsh/on-premises-active-directory-configuration)<br><br>
     > Active Directory Domain-controller/Client configuration with a bulk user creation script for simulating employees
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0079d3&height=2" width="100%">
 
 <a name="swe-automation"></a>
 
