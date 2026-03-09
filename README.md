@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Drew <br> [Cybersecurity Professional](#cyber-professional) & [Programmer](#programmer)
+# Hi, I'm Drew <br> [Cybersecurity Professional](#cyber-professional) & [SWE/Automation Enthusiast](#programmer)
 
 </div>
 
@@ -25,14 +25,8 @@
   - [On-premises Active Directory Configuration](https://github.com/drewmarsh/on-premises-active-directory-configuration)<br><br>
     > Active Directory Domain-controller/Client configuration with a bulk user creation script for simulating employees
 
-- <b>PowerShell/Shell Scripting</b>
-  - [Active Directory — Bulk User Creation](https://github.com/drewmarsh/active-directory-bulk-user-creation)
-  - [YouTube to .M4B Audiobook Converter](https://github.com/drewmarsh/youtube-to-m4b)
-  - [Amazon.com Book Cover Image Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
-  - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
-
 <a name="programmer"></a>
-## 💻 Software Development
+## 💻 Software Engineering and 🤖 Automation
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
@@ -52,6 +46,12 @@
     > <details> <summary><i>Preview 'Base64 Encoder/Decoder'</i></summary> <br> <img src="/preview/base64-preview.png" width="371" alt="Base64 Preview"> </details>
   
   - [Raindrops Simulation](https://github.com/drewmarsh/raindrops-simulation)
+    
+  - <b>PowerShell/Shell Scripting</b>
+    - [Active Directory Bulk User Creation](https://github.com/drewmarsh/active-directory-bulk-user-creation)
+    - [YouTube to .M4B Audiobook Converter](https://github.com/drewmarsh/youtube-to-m4b)
+    - [Amazon.com Book Cover Image Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
+    - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
 
 ## 📜 Certifications
 
