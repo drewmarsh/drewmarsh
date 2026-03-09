@@ -4,8 +4,13 @@
 
 </div>
 
-<a name="cyber-professional"></a>
+ <a name="cyber-professional"></a>
+ 
+ <div align="center">
+   
 ## 🔐 🖥️ Cybersecurity & IT
+
+</div>
 
 - <b>SOC Automation & Threat Detection</b>
   - [Azure Sentinel Honeypot with Attack Mapping](https://github.com/drewmarsh/soc-automation-sentinel-honeypot)<br><br>
@@ -26,7 +31,12 @@
     > Active Directory Domain-controller/Client configuration with a bulk user creation script for simulating employees
 
 <a name="swe-automation"></a>
+
+<div align="center">
+  
 ## 💻 ⚙️ Software Engineering & Automation
+
+</div>
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
@@ -53,13 +63,4 @@
   - [Amazon.com Book Cover Image Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
   - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
 
-## 🎉 Certifications
-
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-e32527?style=for-the-badge) <br>
-![CompTIA CySA+](https://img.shields.io/badge/CompTIA%20CySA+-e32527?style=for-the-badge) <br>
-![ITIL v4](https://img.shields.io/badge/ITIL%20v4%20Foundation-6c213e?style=for-the-badge) <br>
-![LPI Linux Essentials](https://img.shields.io/badge/LPI%20Linux%20Essentials-FCC624?style=for-the-badge) <br>
-![PSPO I](https://img.shields.io/badge/Professional%20Scrum%20Product%20Owner%20I%20(PSPO%20I)-10697c?style=for-the-badge) <br>
-![PSM I](https://img.shields.io/badge/Professional%20Scrum%20Master%20I%20(PSM%20I)-10697c?style=for-the-badge) <br>
-![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-e32527?style=for-the-badge) <br>
-![NIMS](https://img.shields.io/badge/NIMS%20IS--703%20•%20IS--200%20•%20IS--100-006400?style=for-the-badge) <br>
+<div align="center">
