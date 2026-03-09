@@ -18,7 +18,7 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2>🔐 Cybersecurity & IT 🖥️</h2>
+      <h2>🔐 Cybersecurity & Information Technology 🖥️</h2>
     </summary>
   </ul>
 </div>
