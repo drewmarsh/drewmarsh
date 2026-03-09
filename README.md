@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a4dc,50:7b6db0,100:aa5cc3&height=80&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:aa5cc3,50:7b6db0,100:00a4dc&height=2" width="100%">
 
 <a name="cyber-professional"></a>
 
