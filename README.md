@@ -5,7 +5,7 @@
 </div>
 
 <a name="cyber-professional"></a>
-## 🔐 Cybersecurity and 🖥️ IT
+## 🔐 Cybersecurity and 💾 IT
 
 - <b>SOC Automation & Threat Detection</b>
   - [Azure Sentinel Honeypot with Attack Mapping](https://github.com/drewmarsh/soc-automation-sentinel-honeypot)<br><br>
@@ -27,11 +27,12 @@
 
 - <b>PowerShell/Shell Scripting</b>
   - [Active Directory — Bulk User Creation](https://github.com/drewmarsh/active-directory-bulk-user-creation)
-  - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
+  - [YouTube to .M4B Audiobook Converter](https://github.com/drewmarsh/youtube-to-m4b)
   - [Amazon.com Book Cover Image Grabber](https://github.com/drewmarsh/amazon-book-cover-grabber)
+  - [Audiobook/Ebook Entry Adder for Digital Libraries](https://github.com/drewmarsh/add-new-book)
 
 <a name="programmer"></a>
-## ⌨ Software Development
+## 💻 Software Development
 
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
   - [Hotel Room Booking Application](https://github.com/drewmarsh/mock-hotel-booking)
@@ -42,7 +43,7 @@
   - [Package Delivery Application (Pathfinding Algorithm)](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm)
   - [Stroke Detector (Machine Learning/AI in Jupyter Notebook)](https://github.com/drewmarsh/stroke-detector-AI)
 - <b>C# (.NET Framework)</b>
-  - [Toggle Muter (Windows Volume Control Application)](https://github.com/drewmarsh/toggle-muter)
+  - [Toggle Muter (Volume Control Application)](https://github.com/drewmarsh/toggle-muter)
 - <b>JavaScript/TypeScript</b>
   - [Recipe Scaler](https://github.com/drewmarsh/joplin-recipe-scaler)
     > <details> <summary><i>Preview 'Recipe Scaler'</i></summary> <br> <img src="/preview/recipe-scaler-preview.png" width="1920" alt="Recipe Scaler Preview"> </details>
