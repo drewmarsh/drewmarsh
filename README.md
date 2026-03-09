@@ -8,7 +8,7 @@
  
  <div align="center">
    
-## 🔐 🖥️ Cybersecurity & IT
+## 🔐 Cybersecurity & IT 🖥️
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
   
-## 💻 ⚙️ Software Engineering & Automation
+## 💻 Software Engineering & Automation ⚙️
 
 </div>
 
