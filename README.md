@@ -26,23 +26,27 @@
 
 - <b>SOC Automation & Threat Detection</b>
   - [Azure Sentinel Honeypot with Attack Mapping](https://github.com/drewmarsh/soc-automation-sentinel-honeypot)<br><br>
-    > Deployed a vulnerable Azure VM as a honeypot, analyzed live attacks using Microsoft Sentinel/KQL, and visualized global threat patterns via a dynamic world heatmap
+    > Deployed a vulnerable Azure VM as a honeypot, analyzed live attacks using Microsoft Sentinel/KQL, and visualized global threat patterns via a dynamic world heatmap to track 45,000 attacks from 15+ countries in 24 hours
 
 - <b>Vulnerability Management</b>
   - [Nessus Vulnerability Scanning & Vulnerability Remediation](https://github.com/drewmarsh/nessus-vulnerability-management)<br><br>
-    > Intentionally making an Azure VM insecure, remediating those vulnerabilities, and then running Tenable Nessus vulnerability scans at different steps throughout the process
+    > Intentionally made an Azure VM insecure, remediated those vulnerabilities, and then ran Tenable Nessus vulnerability scans at various vulnerability lifecycle management steps throughout the process
 
 - <b>osTicket (Help Desk Ticketing System) Server</b>
   - [Part 1: Prerequisites & Installation](https://github.com/drewmarsh/osTicket-installation)
   - [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
   - [Part 3: Ticket Lifecycle Demo](https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo)<br><br>
-    > Creating a ticketing system server in an Azure VM by setting up dependencies, installing/configuring osTicket, simulating an employee hierarchy, and showcasing an example ticket lifecycle
+    > Created a ticketing system server, simulated an employee hierarchy, and showcased an example ticket lifecycle
 
 - <b>Active Directory</b>
   - [On-premises Active Directory Configuration](https://github.com/drewmarsh/on-premises-active-directory-configuration)<br><br>
-    > Active Directory Domain-controller/Client configuration with a bulk user creation script for simulating employees
+    > Configured an enterprise Active Directory environment and queried user creation for simulating 100+ employees
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0079d3&height=2" width="100%">
+- <b>File Server</b>
+  - [Remote-accessible File Server using Tailscale & FileBrowser](https://github.com/drewmarsh/filebrowser-remote-file-server)<br><br>
+    > Engineered a secure self-hosted file-sharing solution using Tailscale (zero-trust VPN) and FileBrowser, enforcing least-privilege access and firewall rules to restrict traffic exclusively to Tailscale devices
+
+<br><img src="https://capsule-render.vercel.app/api?type=rect&color=0079d3&height=2" width="100%">
 
 <a name="swe-automation"></a>
 
