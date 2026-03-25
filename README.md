@@ -4,7 +4,7 @@
     <summary>
       <h1>Hi, 👋🏻 I'm Drew</h1>
       <br>
-      <h2>Cybersecurity Professional & Programmer</h2> 
+      <h2>Cybersecurity Professional & Product-Minded Builder</h2> 
     </summary>
   </ul>
 </div>
